@@ -1,0 +1,12 @@
+# Dependency directories
+frontend/node_modules
+backend/node_modules
+
+# next.js
+frontend/.next/
+frontend/out/
+
+# production
+frontend/build
+backend/dist
+backend/build
